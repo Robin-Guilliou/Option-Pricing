@@ -2,12 +2,37 @@
 
 Pricing of options with various models and methods (Monte Carlo, finite difference, Fourier).
 
-# Black Scholes
+# European Options
 
-The Black Scholes folder contains notebooks for the pricing of European options with:
+This folder contains notebooks with for the pricing of European options with the following models:
+
+- Black-Scholes,
+- Merton jump diffusion.
+
+## Black-Scholes
+
+Pricing of European options according to the Black-Scholes model using the following methods:
 
 - Analytical solution,
 - Finite difference (explicit scheme),
 - Fourier transform.
 
-It also con
+## Merton Jump Diffusion
+
+Pricing of European options according to the Merton jump diffusion model using the following methods:
+
+- Monte Carlo,
+- Fourier transform.
+
+# Exotics
+
+Pricing of the following exotic options:
+
+- Barrier.
+
+## Barrier options
+
+Pricing of barrier options (discretely and continuously monitored) using the following methods:
+
+- Analytical solution,
+- Monte Carlo.
