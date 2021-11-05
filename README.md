@@ -24,10 +24,6 @@ Pricing of European options according to the Merton jump diffusion model using t
 - Monte Carlo,
 - Fourier transform.
 
-## Implied Volatility
-
-Computation of implied volatility for European options using the Newton-Raphson method and the Black-Scholes model. Plotting of the volatility smile.
-
 # Exotics
 
 Pricing of the following exotic options:
@@ -40,3 +36,7 @@ Pricing of barrier options (discretely and continuously monitored) using the fol
 
 - Analytical solution,
 - Monte Carlo.
+
+# Implied Volatility
+
+Computation of implied volatility for European options using the Newton-Raphson method and the Black-Scholes model. Plotting of the volatility smile.
