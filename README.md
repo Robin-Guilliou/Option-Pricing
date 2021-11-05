@@ -14,6 +14,7 @@ This folder contains notebooks with for the pricing of European options with the
 Pricing of European options according to the Black-Scholes model using the following methods:
 
 - Analytical solution,
+- Monte Carlo,
 - Finite difference (explicit scheme),
 - Fourier transform.
 
