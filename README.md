@@ -22,6 +22,7 @@ Pricing of European options according to the Black-Scholes model using the follo
 
 Pricing of European options according to the Merton jump diffusion model using the following methods:
 
+- Analytical solution,
 - Monte Carlo,
 - Fourier transform.
 
