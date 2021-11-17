@@ -1,6 +1,6 @@
 # Option-Pricing
 
-Pricing of options with various models and methods (Monte Carlo, finite difference, Fourier).
+Pricing of options with various models (Black-Scholes, Heston, Merton jump diffusion, etc) and methods (Monte Carlo, finite difference, Fourier).
 
 # European Options
 
