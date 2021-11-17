@@ -26,6 +26,17 @@ Pricing of European options according to the Merton jump diffusion model using t
 - Monte Carlo,
 - Fourier transform.
 
+## Heston model
+
+Pricing of European options according to the Heston stochastic volatility model using the following methods:
+
+- Analytical solution
+- Monte Carlo
+
+## Binomial model
+
+Pricing of European options according to the binomial model (Cox, Ross, Rubinstein).
+
 # Exotics
 
 Pricing of the following exotic options:
