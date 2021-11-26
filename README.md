@@ -41,7 +41,7 @@ Pricing of European options according to the binomial model (Cox, Ross, Rubinste
 
 Pricing of the following exotic options:
 
-- Barrier.
+- Barrier (discrete and continuous monitoring, analytical and Monte Carlo).
 
 ## Barrier options
 
